@@ -1,3 +1,3 @@
-let statename'Uwielbiam JavaScript!'
+let statename = 'Uwielbiam JavaScript!'
 
 console.log(statename);
